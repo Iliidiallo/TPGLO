@@ -64,6 +64,7 @@ public class Orange {
         Orange o1=new Orange(121.5,"Chine");
         System.out.println(o1.toString());
         o1.setPrix(0.9);
+        o1.setOrigine("GuineaCkry");
         
 
         System.out.println(o1.toString());
